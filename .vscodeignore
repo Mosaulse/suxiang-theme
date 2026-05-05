@@ -6,6 +6,7 @@ docs/
 
 # Workspace config
 .workbuddy/
+.trae/
 
 # Development files
 *.log

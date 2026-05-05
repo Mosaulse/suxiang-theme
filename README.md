@@ -2,8 +2,13 @@
 
 一本手抄旧书的颜色，落在你的代码上。
 
-![GitHub License](https://img.shields.io/github/license/Mosaulse/suxiang-theme)
 ![Theme](https://img.shields.io/badge/theme-light%20%7C%20dark-D95B4A)
+
+[![VSCode](https://img.shields.io/badge/VSCode-suxiang%20theme-D95B4A?style=flat&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=Mosaulse.suxiang-theme) ![VSCode Version](https://vsmarketplacebadges.dev/version-short/Mosaulse.suxiang-theme.svg) ![VSCode Downloads](https://vsmarketplacebadges.dev/downloads/Mosaulse.suxiang-theme.svg)
+
+[![OpenVSX](https://img.shields.io/badge/OpenVSX-suxiang%20theme-D95B4A?style=flat&logo=visual-studio-code)](https://open-vsx.org/extension/Mosaulse/suxiang-theme) ![Open VSX Version](https://img.shields.io/open-vsx/v/Mosaulse/suxiang-theme?style=flat) ![Open VSX Downloads](https://img.shields.io/open-vsx/dt/Mosaulse/suxiang-theme?style=flat)
+
+![GitHub License](https://img.shields.io/github/license/Mosaulse/suxiang-theme)
 
 素缃 是一对从东方古籍美学中生长出来的 VSCode 颜色主题。
 「素」是未经染色的生绢，素净安宁；「缃」是被岁月染成的浅黄，古卷扉页的颜色。
