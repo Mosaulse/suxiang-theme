@@ -89,17 +89,18 @@
 
 ```json
 {
-  "editor.fontFamily": "'Cascadia Code', 'Noto Serif CJK SC', 'Fira Code', monospace",
+  "editor.fontFamily": "'LXGW WenKai Mono', 'Maple Mono NF CN'",
   "editor.fontSize": 15,
   "editor.lineHeight": 1.6,
   "editor.renderWhitespace": "selection",
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": true,
-  "workbench.colorTheme": "素缃·朝霞"
 }
 ```
 
 > 🎋 **字体建议**：若选用带有传统衬线的 **Noto Serif CJK SC** 或 **Source Han Serif SC**，那一抹缃色的古意将更加浓烈，如诗如画。
+>
+> ✨ **特别推荐**：[**霞鹜文楷 (LXGW WenKai)**](https://github.com/lxgw/LxgwWenKai) - 一款基于 Klee One 的开源中文字体，融合楷体与仿宋之美，温润优雅，与素缃主题意境相得益彰。可从 [GitHub 发布页](https://github.com/lxgw/LxgwWenKai/releases) 下载安装。
 
 ## 📚 语言适配
 
