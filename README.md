@@ -150,6 +150,16 @@ npx vsce package
 
 ## 📓 版本纪事
 
+### v1.2.0 - 2026-05-08
+
+**意境精进**
+
+- 新增 semanticTokenColors 完整配置，支持现代编程语言的语义高亮
+- 优化 namespace、class、interface、enum 等类型的高亮显示
+- 添加 function、method、macro 的独立配色，方法调用更加醒目
+- 完善 variable、parameter、property 的颜色区分，代码层次更分明
+- 优化正则表达式、Markdown、CSS 等语法高亮
+
 ### v1.1.0 - 2026-05-07
 
 **意境升华**
