@@ -19,3 +19,5 @@ Thumbs.db
 # Git files (optional, usually auto-ignored)
 .git/
 .gitignore
+
+.scripts/apply_include_and_clean.py
